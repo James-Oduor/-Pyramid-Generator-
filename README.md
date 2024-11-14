@@ -1,4 +1,4 @@
-# -Pyramid-Generator-
+# Pyramid-Generator
 This JavaScript project generates a pyramid of characters ("!" by default) and outputs it to the console. It allows for customizable pyramid height and an option to invert the pyramid structure.
 
 ![image](https://github.com/user-attachments/assets/91144189-e7a9-4ea0-a067-b9738c9a9c62)
